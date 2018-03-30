@@ -22,7 +22,7 @@ Don't forget to add your own demo credentials for Find and Social, as you will n
 *	Run the website.
 *	Search for e.g. Alloy. Notice that pages with the same categories as the pages you liked will appear higher in the search results.
 
-Completed files are found here: [Solution Files](Solution Files/README.md)
+Completed files are found here: [Solution Files](https://github.com/jstemerdink/AscendSocialFindLab/blob/master/Solution%20Files/README.md)
 
 
 > *Powered by ReSharper*
